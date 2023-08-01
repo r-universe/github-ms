@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "metacart"]
-	path = metacart
-	url = https://github.com/cran/metacart
 [submodule "QR"]
 	path = QR
 	url = https://github.com/cran/QR
+[submodule "metacart"]
+	path = metacart
+	url = https://github.com/cran/metacart
